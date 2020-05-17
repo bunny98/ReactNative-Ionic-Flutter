@@ -14,9 +14,14 @@
 | **Code Reusabilty** | learn Once, write everywhere  | One Codebase, any platform(iOS, Android, Web, Windows, Desktop)  | Reusable Widgets  |
 |**Documentation**| Up-to-date but imprecise  |   Up-to-date but long drawn | Precise, Clear, up-to-date  |
 | **Learning Curve**  | Steep Learning Curve |  Easy Learning Curve due to web technologies like Angular and TypeScript | Moderate Learning Curve |
-|**Time-to-Market of App**| Slower as compared to the other two | | Fastest among the three |
+|**Time-to-Market of App**| Slower as compared to the other two | Faster than React, Slower than Flutter | Fastest among the three |
 |**Code Testing**|  Needs a real mobile device or emulator to test the code | Using any browser, the code can be tested | Needs a real mobile device or emulator to test the code   |
 |**Error Reporting**| Really messy! | Compact and readable  | Compact and readable  |
-| **Native Performances**  |  Good  | Worst | Best  |  
+| **Native Performances**  |  Good  | Worst | Best  | 
+
+**Choose Flutter when you want cross-platform, highly-attractive UI, excellent native performance, quicker time-to-market, and competitive advantage of using Dart in your programming environment.<br>
+Choose React Native when you want to leverage the support from the stronger and mature community, native app performance, and popular JavaScript in developing cross-platform apps<br>
+If you are low on budget and want excellent performance, you can opt for Ionic
+**
 
 
