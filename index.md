@@ -1,4 +1,4 @@
-## Comparing React Native, Ionic and Flutter
+## Comparison Table
 
 |Metric| React Native  |     Ionic     |     Flutter     |
 |------| ------------- | ------------- |-----------------|
